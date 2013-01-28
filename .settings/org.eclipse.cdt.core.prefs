@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/org.eclipse.cdt.cross.arm.gnu.yagarto.windows.toolchain.base.130274085/PATH/delimiter=;
+environment/project/org.eclipse.cdt.cross.arm.gnu.yagarto.windows.toolchain.base.130274085/PATH/operation=replace
+environment/project/org.eclipse.cdt.cross.arm.gnu.yagarto.windows.toolchain.base.130274085/PATH/value=C\:/Program Files/Java/jre6/bin/client;C\:/Program Files/Java/jre6/bin;C\:/Program Files/Java/jre6/lib/i386;C\:\\Program Files\\Common Files\\Microsoft Shared\\Windows Live;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\hp\\bin\\Python;c\:\\Program Files\\ATI Technologies\\ATI.ACE\\Core-Static;C\:\\Program Files\\QuickTime\\QTSystem\\;C\:\\Program Files\\Common Files\\DivX Shared\\;C\:\\Program Files\\Windows Live\\Shared;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files\\MySQL\\MySQL Server 5.5\\bin;C\:\\CooCox\\CoIDE\\gcc\\bin;C\:\\CooCox\\CoIDE1.6.2\\gcc\\bin;C\:\\yagarto-tools-20121018\\bin;"C\:\\Program Files\\Microchip\\xc32\\v1.10\\bin";C\:\\Ruby193\\bin;C\:\\GNUToolsARMEmbedded\\4.7-2012q4\\bin;C\:\\eclipse;
+environment/project/org.eclipse.cdt.cross.arm.gnu.yagarto.windows.toolchain.base.130274085/append=true
+environment/project/org.eclipse.cdt.cross.arm.gnu.yagarto.windows.toolchain.base.130274085/appendContributed=true
