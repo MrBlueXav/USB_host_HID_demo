@@ -1,0 +1,54 @@
+*** Creating Trace Output File '.\build\usbhid.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\build\main.o"'
+### List of Objects: adding '".\build\stm32f4_discovery.o"'
+### List of Objects: adding '".\build\stm32fxxx_it.o"'
+### List of Objects: adding '".\build\usb_bsp.o"'
+### List of Objects: adding '".\build\usbh_usr.o"'
+### List of Objects: adding '".\build\usbh_usr_lcd.o"'
+### List of Objects: adding '".\build\misc.o"'
+### List of Objects: adding '".\build\stm32f4xx_adc.o"'
+### List of Objects: adding '".\build\stm32f4xx_can.o"'
+### List of Objects: adding '".\build\stm32f4xx_crc.o"'
+### List of Objects: adding '".\build\stm32f4xx_dac.o"'
+### List of Objects: adding '".\build\stm32f4xx_dma.o"'
+### List of Objects: adding '".\build\stm32f4xx_exti.o"'
+### List of Objects: adding '".\build\stm32f4xx_gpio.o"'
+### List of Objects: adding '".\build\stm32f4xx_i2c.o"'
+### List of Objects: adding '".\build\stm32f4xx_pwr.o"'
+### List of Objects: adding '".\build\stm32f4xx_rcc.o"'
+### List of Objects: adding '".\build\stm32f4xx_rng.o"'
+### List of Objects: adding '".\build\stm32f4xx_rtc.o"'
+### List of Objects: adding '".\build\stm32f4xx_spi.o"'
+### List of Objects: adding '".\build\stm32f4xx_syscfg.o"'
+### List of Objects: adding '".\build\stm32f4xx_tim.o"'
+### List of Objects: adding '".\build\stm32f4xx_usart.o"'
+### List of Objects: adding '".\build\usb_core.o"'
+### List of Objects: adding '".\build\usb_hcd.o"'
+### List of Objects: adding '".\build\usb_hcd_int.o"'
+### List of Objects: adding '".\build\usbh_core.o"'
+### List of Objects: adding '".\build\usbh_hcs.o"'
+### List of Objects: adding '".\build\usbh_hid_core.o"'
+### List of Objects: adding '".\build\usbh_hid_keybd.o"'
+### List of Objects: adding '".\build\usbh_hid_mouse.o"'
+### List of Objects: adding '".\build\usbh_ioreq.o"'
+### List of Objects: adding '".\build\usbh_stdreq.o"'
+### List of Objects: adding '".\build\system_stm32f4xx.o"'
+### List of Objects: adding '".\build\startup_stm32f4xx_keil.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M4.fp ".\build\main.o" ".\build\stm32f4_discovery.o" ".\build\stm32fxxx_it.o" ".\build\usb_bsp.o" ".\build\usbh_usr.o" ".\build\usbh_usr_lcd.o" ".\build\misc.o" ".\build\stm32f4xx_adc.o" ".\build\stm32f4xx_can.o" ".\build\stm32f4xx_crc.o" ".\build\stm32f4xx_dac.o" ".\build\stm32f4xx_dma.o" ".\build\stm32f4xx_exti.o" ".\build\stm32f4xx_gpio.o" ".\build\stm32f4xx_i2c.o" ".\build\stm32f4xx_pwr.o" ".\build\stm32f4xx_rcc.o" ".\build\stm32f4xx_rng.o" ".\build\stm32f4xx_rtc.o" ".\build\stm32f4xx_spi.o" ".\build\stm32f4xx_syscfg.o" ".\build\stm32f4xx_tim.o" ".\build\stm32f4xx_usart.o" ".\build\usb_core.o" ".\build\usb_hcd.o" ".\build\usb_hcd_int.o" ".\build\usbh_core.o" ".\build\usbh_hcs.o" ".\build\usbh_hid_core.o" ".\build\usbh_hid_keybd.o" ".\build\usbh_hid_mouse.o" ".\build\usbh_ioreq.o" ".\build\usbh_stdreq.o" ".\build\system_stm32f4xx.o" ".\build\startup_stm32f4xx_keil.o" 
+--strict --scatter ".\build\usbhid.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\build\usbhid.map" -o .\build\usbhid.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\build\usbhid.axf'
+### ADS-LD Command File: '.\build\usbhid.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\build\usbhid.lnp', Handle=0x00000BD0
+### Writing '.lnp' file
+### ADS-LD Command file '.\build\usbhid.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

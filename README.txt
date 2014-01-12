@@ -30,3 +30,6 @@ Deleting the polling on the user button in order to launch the HID application w
 
 *******
 This seems to work only with USB 2.0 mice and keyboards...
+
+*******
+update 2013-12-1: Basic Keil ARM MDK 4.70 environment added
